@@ -45,3 +45,8 @@ group :development do
   # gem "spring"
 end
 
+# Type system for Ruby [https://sorbet.org]
+gem 'sorbet', :group => :development
+gem 'sorbet-runtime'
+gem 'tapioca', require: false, :group => [:development, :test]
+

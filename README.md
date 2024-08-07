@@ -1,24 +1,22 @@
-# README
+# Shop Backend
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Welcome to this repository! This is my personal playground for learning Ruby on Rails.
 
-Things you may want to cover:
+## Getting Started
 
-* Ruby version
+To get started, follow these steps:
 
-* System dependencies
+1. Clone the repository to your local machine.
+2. Install Ruby and Rails if you haven't already.
+3. Run `bundle install` to install the project dependencies.
+4. Set up the database by running `rails db:create` and `rails db:migrate`.
+5. Start the server with `rails server`.
+6. Open your browser and navigate to `http://localhost:3000` to access the application.
 
-* Configuration
+## Contributing
 
-* Database creation
+Contributions are welcome! If you have any ideas, suggestions, or bug reports, please open an issue or submit a pull request.
 
-* Database initialization
+## License
 
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more information.
